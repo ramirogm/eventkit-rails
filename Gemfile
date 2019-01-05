@@ -36,4 +36,4 @@ group :doc do
 	gem 'sdoc', require: false
 end
 
-ruby "2.5.4"
+ruby "2.5.3"
